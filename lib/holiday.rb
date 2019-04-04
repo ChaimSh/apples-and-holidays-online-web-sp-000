@@ -74,6 +74,5 @@ holiday_hash.each do |season, holidays|
   new_array << holiday if supply.include?("BBQ")
   end
 end
-end
 new_array
 end
