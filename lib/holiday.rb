@@ -73,6 +73,6 @@ holiday_hash.each do |key, value|
   if value == "BBQ"
   new_array << "#{key}"
   end
+  new_array
 end
-new_array
 end
